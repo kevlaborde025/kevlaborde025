@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">I am a DevOps Engineer from Montevideo, Uruguay. I'm working on @BacklotCars.</h3>
+<h3 align="center">I am a DevOps Engineer from Montevideo, Uruguay.</h3>
 
 
 - 🔭 I’m currently working on [BacklotCars](https://github.com/Backlot-Cars/)
