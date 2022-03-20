@@ -25,11 +25,18 @@
 <br />
 
 [github]: https://github.com/kevlaborde025
-
+  
 </p>
+  
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klaborde025&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&count_private=true)
 
 
 
+
+
+---
 
 Last Edited on: 20/12/2021
 
