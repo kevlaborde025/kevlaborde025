@@ -2,9 +2,9 @@
 <h3 align="center">I am a DevOps Engineer from Montevideo, Uruguay.</h3>
 
 
-- 👨🏻‍💻 I’m currently working on [BacklotCars](https://github.com/Backlot-Cars/)
+- 👨🏻‍💻 I’m currently working at [BacklotCars](https://github.com/Backlot-Cars/)
 
-- 🌱 I’m always learning new technologies, I ❤️ what I do
+- 😍 I love my work as Devops Engineer and be always learning new technologies
 
 - 📫 How to reach me **kevlaborde@gmail.com**
 
