@@ -23,7 +23,7 @@
 <br />
 ---
 
-![](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat&logo=DO&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat&logo=DigitalOcean&logoColor=white&color=2bbc8a)
 
 <br />
 
