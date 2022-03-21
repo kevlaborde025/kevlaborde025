@@ -23,6 +23,8 @@
 
 <br />
 
+![](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat&logo=DO&logoColor=white&color=2bbc8a)
+
 [github]: https://github.com/kevlaborde025
   
 
