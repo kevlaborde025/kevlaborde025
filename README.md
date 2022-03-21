@@ -21,9 +21,11 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
 [<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />][github]
 
-<br />
+---
 
 ![](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat&logo=DO&logoColor=white&color=2bbc8a)
+
+<br />
 
 [github]: https://github.com/kevlaborde025
   
