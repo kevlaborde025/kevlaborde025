@@ -24,8 +24,10 @@
 ---
 
 ![](https://img.shields.io/badge/Cloud-DigitalOcean-informational?style=flat&logo=DigitalOcean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Amazon%20AWS-informational?style=flat&logo=AmazonAWS&logoColor=white&color=2bbc8a)
 
 <br />
+ 
 
 [github]: https://github.com/kevlaborde025
   
