@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kevin</h1>
-<h3 align="center">I am a Sr. DevOps Engineer from Montevideo, Uruguay.</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">My name is Kevin and I am a Sr. DevOps Engineer from Montevideo, Uruguay.</h3>
 
 
 - 👨🏻‍💻 I’m currently working at [BacklotCars](https://github.com/Backlot-Cars/)
