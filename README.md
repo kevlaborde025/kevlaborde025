@@ -1,6 +1,7 @@
-<h1 align="center">Hi there! 👋</h1>
-<h3 align="center">I'm Kevin, a Sr. DevOps Engineer from Montevideo, Uruguay.</h3>
-👨🏻‍💻 Currently working at BacklotCars.
+<h1 align="center">👋</h1>
+<h3 align="center">Sr. DevOps Engineer</h3>
+<h3 align="center">From Montevideo, Uruguay 🇺🇾</h3>
+👨🏻‍💻 Currently working at BacklotCars
 
 📫 You can reach me at kevlaborde@gmail.com.
 
