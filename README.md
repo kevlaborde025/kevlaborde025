@@ -1,7 +1,7 @@
 <h1 align="center">👋</h1>
-<h3 align="center">Sr. DevOps Engineer</h3>
+<h3 align="center">Sr. Engineer</h3>
 <h3 align="center">From Montevideo, Uruguay 🇺🇾</h3>
-👨🏻‍💻 Currently working at BacklotCars
+👨🏻‍💻 Currently working at Valimail
 
 📫 You can reach me at kevlaborde@gmail.com.
 
